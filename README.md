@@ -1,6 +1,6 @@
-# Ξthereum Wallet Ðapp
+# Trustless Token Wallet Dapp
 
-The Ξthereum wallet.
+An Ξthereum wallet modified to become a human usable token management information system.
 
 **NOTE** The wallet is not yet official released,
 can contain severe bugs!
